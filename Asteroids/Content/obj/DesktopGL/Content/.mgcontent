@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Projects/Programming/Simple games/Asteroids/Asteroids/Content/meteorBrown_big1.png</File>
+    <File>D:/Projects/Programming/Simple games/Asteroids/Asteroids/Content/meteorBrown_big2.png</File>
+    <File>D:/Projects/Programming/Simple games/Asteroids/Asteroids/Content/meteorBrown_big3.png</File>
+    <File>D:/Projects/Programming/Simple games/Asteroids/Asteroids/Content/meteorBrown_big4.png</File>
+    <File>D:/Projects/Programming/Simple games/Asteroids/Asteroids/Content/meteorBrown_med1.png</File>
+    <File>D:/Projects/Programming/Simple games/Asteroids/Asteroids/Content/meteorBrown_med3.png</File>
+    <File>D:/Projects/Programming/Simple games/Asteroids/Asteroids/Content/meteorBrown_small1.png</File>
+    <File>D:/Projects/Programming/Simple games/Asteroids/Asteroids/Content/meteorBrown_small2.png</File>
+    <File>D:/Projects/Programming/Simple games/Asteroids/Asteroids/Content/meteorBrown_tiny1.png</File>
+    <File>D:/Projects/Programming/Simple games/Asteroids/Asteroids/Content/meteorBrown_tiny2.png</File>
+    <File>D:/Projects/Programming/Simple games/Asteroids/Asteroids/Content/plasma.png</File>
+    <File>D:/Projects/Programming/Simple games/Asteroids/Asteroids/Content/playerShip1_blue.png</File>
+    <File>D:/Projects/Programming/Simple games/Asteroids/Asteroids/Content/playerShip3_blue.png</File>
+    <File>D:/Projects/Programming/Simple games/Asteroids/Asteroids/Content/spaceMeteors_001.png</File>
+    <File>D:/Projects/Programming/Simple games/Asteroids/Asteroids/Content/spaceMeteors_002.png</File>
+    <File>D:/Projects/Programming/Simple games/Asteroids/Asteroids/Content/spaceMeteors_003.png</File>
+    <File>D:/Projects/Programming/Simple games/Asteroids/Asteroids/Content/spaceMeteors_004.png</File>
+    <File>D:/Projects/Programming/Simple games/Asteroids/Asteroids/Content/ufoBlue.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
